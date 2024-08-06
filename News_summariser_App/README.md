@@ -1,0 +1,3 @@
+Creating a News Summariser App.
+Posting URLs, the application will end up consuming the news article, breaking it down into chunks of text with some overlap to maintain the context of the article. Each chunk of text will be summarized and then those chunks of summaries for the article will again get summarised into max of 5 Major points and 3 sub points to give user some context of the article in a concise and coherent way. 
+The consuming of articles and breaking down and summarising of texts has been done in such a way that it's sequential and takes care of the memory load on your local system so as to not render it unusable.
